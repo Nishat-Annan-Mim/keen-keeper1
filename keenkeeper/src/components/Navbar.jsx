@@ -16,8 +16,8 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <img src={logo} alt="KeenKeeper" className="h-6 w-auto" />
           <span className="text-lg font-bold">
-            <span className="font-normal">Keen</span>
-            <span className="font-bold">Keeper</span>
+            <span className="font-normal"></span>
+            <span className="font-bold"></span>
           </span>
         </div>
 
