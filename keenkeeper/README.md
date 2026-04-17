@@ -18,3 +18,5 @@ KeenKeeper helps you track, nurture, and maintain the relationships that matter 
 1. **Friend Dashboard** — View all your friends with their contact status (On-Track, Almost Due, Overdue)
 2. **Quick Check-In** — Log calls, texts, and video chats directly from a friend's detail page
 3. **Timeline & Analytics** — See your full interaction history and visualize stats with a pie chart
+
+

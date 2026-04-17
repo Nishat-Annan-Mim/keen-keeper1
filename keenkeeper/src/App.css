@@ -1,0 +1,22 @@
+/* App-level styles */
+
+/* Custom button styles */
+button {
+  transition: all 0.3s ease;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Text selection color */
+::selection {
+  background-color: #1e4d3b;
+  color: white;
+}
